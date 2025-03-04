@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538482447919",
+    "project_id": "mnm-notepad-cbcb9",
+    "storage_bucket": "mnm-notepad-cbcb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538482447919:android:a7dc178b5669e6147c58da",
+        "android_client_info": {
+          "package_name": "com.wole.mnm_notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538482447919-dnnreb9a1jksv2v42h3e04tcl5ud7hr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcyc_Ers6UftwbzDFALTyi_YJ2sevL6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538482447919-dnnreb9a1jksv2v42h3e04tcl5ud7hr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
