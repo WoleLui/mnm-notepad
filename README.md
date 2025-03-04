@@ -1,6 +1,7 @@
-# mnm_notepad
+# MNM Notepad
 
-messenger note manager
+MNM Notepad est une application de prise de notes au style messagerie, conçue pour un utilisateur unique. Elle permet d'enregistrer et de gérer des notes textuelles et audio, avec un stockage local sécurisé via SQLite. Grâce à une interface intuitive inspirée des applications de messagerie, elle offre une expérience fluide et optimisée pour une gestion efficace des notes. Son moteur de recherche intégré permet de retrouver rapidement les informations, et son stockage local via SQLite garantit un accès rapide et sécurisé aux données.
+
 
 ## Getting Started
 
